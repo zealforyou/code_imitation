@@ -2,4 +2,4 @@
 
 ---
 
-**![探讨RxJava的实现原理](RxJava)
+[探讨RxJava的实现原理](RxJava)
